@@ -1,0 +1,12 @@
+# Unity typical ignores
+Library/
+Temp/
+Build/
+Builds/
+Logs/
+
+# Large plugin binaries (examples)
+*.dll
+*.so
+*.dylib
+*.bundle
